@@ -1,0 +1,19 @@
+{
+  "name": "js-unique-key-set",
+  "version": "1.0.0",
+  "description": "Designed for flux to prevent name collisions, it ensured each action name as a unique id attached to it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zelaznik/js-unique-key-set.git"
+  },
+  "author": "Steve Zelaznik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zelaznik/js-unique-key-set/issues"
+  },
+  "homepage": "https://github.com/zelaznik/js-unique-key-set"
+}
